@@ -89,3 +89,4 @@ taptown-bot/
 - **Claimen** knop voor staffleden
 - **Sluiten** knop → logt het ticket en verwijdert het kanaal na 5 seconden
 # taptown-bot
+# taptown-bot
